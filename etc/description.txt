@@ -1,0 +1,53 @@
+[quote]
+[h1][b]AI Breakthrough Revealer[/b][/h1]
+[b]Uses advanced AI-bots to reveal a breakthrough technology.[/b]
+This tech is repeatable and ignores the breakthrough cap set by the game, allowing all breakthroughs to be revealed!
+[i]Field: robotics | Range: 7-12 | Cost: 3000-7000 RP[/i]
+[/quote]
+
+[quote]
+[h1][b]Compressed Matter[/b][/h1]
+[b]Uses an evolution of the ZIP format to compress solid matter, increasing the capacity of RC Transport in 30 units.[/b]
+Effect stacks with other similar technologies.
+[i]Field: physics | Range: 3-8 | Cost: 1500-3000 RP[/i]
+[/quote]
+
+[quote]
+[h1][b]Event Driven Architecture[/b][/h1]
+[b]Generates research points from distinct events that happen during the mission.[/b]
+Events include: anomalies analyzed, natural events ended, meteor intercepted, dome hit by meteor, rocket landed/launched, achievement unlocked, building upgraded, colony approval passed, and sector scanned
+[i]Field: robotics | Range: 1-6 | Cost: 1000-2000 RP[/i]
+[/quote]
+
+[quote]
+[h1][b]Extended Sponsor Research[/b][/h1]
+[b]Further negotiations with the sponsor improve the generated research by 700 points.[/b]
+Effect stacks with other similar technologies.
+[i]Field: social | Range: 1-6 | Cost: 1000-2000 RP[/i]
+[/quote]
+
+[quote]
+[h1][b]Outsource Discount[/b][/h1]
+[b]As the mission moves forward more research companies compete for outsourcing contracts, dropping the cost by 50%.[/b]
+[i]Field: social | Range: 7-14 | Cost: 3000-10000 RP[/i]
+[/quote]
+
+[quote]
+[h1][b]Resupply Alternatives[/b][/h1]
+[b]The mission progress leads to advances in the field of materials engineering, replacing the resupply materials with cheaper and lighter alternatives.[/b]
+Resupply price and weight reduced by 20%.
+[i]Field: physics | Range: 1-6 | Cost: 1000-2000 RP[/i]
+[/quote]
+
+[quote]
+[h1][b]Tech Field Booster[/b][/h1]
+[b]Uses biocomputers - those made from human living cells - to assist research in all tech fields, granting a 20% boost[/b]
+[i]Field: biotech | Range: 3-8 | Cost: 1500-3000 RP[/i]
+[/quote]
+
+[quote]
+[h1][b]Lights Out[/b][/h1]
+[b]Sets strict electricity usage limits for each family living in apartments, cutting down the power consumption in half.[/b]
+[i]Field: social | Range: 3-8 | Cost: 1500-3000 RP[/i]
+[/quote]
+
