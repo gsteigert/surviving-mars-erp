@@ -1,4 +1,4 @@
-return {123
+return {
 PlaceObj('ModItemCode', {
 	'name', "EventDrivenArchitectureEffect",
 	'comment', "Supports the 'Event Driven Architecture' technology",
