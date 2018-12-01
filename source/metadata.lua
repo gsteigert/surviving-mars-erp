@@ -6,12 +6,10 @@ return PlaceObj('ModDef', {
 	'id', "RprEy6",
 	'steam_id', "1348093133",
 	'author', "Witcher",
-	'version', 141,
-	'lua_revision', 233467,
-	'code', {
-		"Code/EventDrivenArchitectureEffect.lua",
-	},
-	'saved', 1534599791,
+	'version', 147,
+	'lua_revision', 238455,
+	'code', {"Code/EventDrivenArchitectureEffect.lua"},
+	'saved', 1543691870,
 	'TagGameplay', true,
 	'TagResearch', true,
 })
