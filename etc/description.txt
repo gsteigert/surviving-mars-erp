@@ -1,4 +1,10 @@
 [quote]
+[h1][b]Lights Out[/b][/h1]
+[b]Sets strict electricity usage limits for each family living in apartments, cutting down the power consumption in half.[/b]
+[i]Field: social | Range: 3-8 | Cost: 1500-3000 RP[/i]
+[/quote]
+
+[quote]
 [h1][b]AI Breakthrough Revealer[/b][/h1]
 [b]Uses advanced AI-bots to reveal a breakthrough technology.[/b]
 This tech is repeatable and ignores the breakthrough cap set by the game, allowing all breakthroughs to be revealed!
@@ -44,10 +50,3 @@ Resupply price and weight reduced by 20%.
 [b]Uses biocomputers - those made from human living cells - to assist research in all tech fields, granting a 20% boost[/b]
 [i]Field: biotech | Range: 3-8 | Cost: 1500-3000 RP[/i]
 [/quote]
-
-[quote]
-[h1][b]Lights Out[/b][/h1]
-[b]Sets strict electricity usage limits for each family living in apartments, cutting down the power consumption in half.[/b]
-[i]Field: social | Range: 3-8 | Cost: 1500-3000 RP[/i]
-[/quote]
-
