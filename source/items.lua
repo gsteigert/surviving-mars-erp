@@ -33,8 +33,12 @@ PlaceObj('ModItemTechPreset', {
 	PlaceObj('Effect_Code', {
 		OnApplyEffect = function (self, city, parent)
 print('[ErpAIBreakthroughRevealer] Revealing random breakthrough')
-tech_id = city:DiscoverTechInField(UICity.tech_field['Breakthroughs'])
-print('[ErpAIBreakthroughRevealer] Revealing: ' .. tech_id)
+tech_id = city:DiscoverTechInField('Breakthroughs')
+if tech_id then
+  print('[ErpAIBreakthroughRevealer] Revealing: ' .. tech_id)
+else
+  print('[ErpAIBreakthroughRevealer] No more breakthroughs left to reveal')
+end
 end,
 	}),
 }),
